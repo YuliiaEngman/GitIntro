@@ -1,6 +1,6 @@
 
 # GitIntro
 
-*## Unit 1
+*## Unit 1*
 
-1. Types, Variables, Logic, Comparison operations*
+*1. Types, Variables, Logic, Comparison operations*
